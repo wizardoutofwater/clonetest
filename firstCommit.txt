@@ -1,3 +1,1 @@
-We're learning about Git today.  It's super awesomesauce 
-making changes to our file
-trying to test commit!
+THis is a Clone Test - we are modifying this file 
